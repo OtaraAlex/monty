@@ -1,5 +1,8 @@
 # Monty
 
+![img](https://res.cloudinary.com/practicaldev/image/fetch/s--XWnztdhd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/d84e17fec485/Image%25202018-09-13%2520at%252012.22.09%2520PM.png)
+
+## Description
 `Monty 0.98` is a scripting language that is first compiled into monty byte codes (Just like python). It relies on a unique stack, with specific instructions to manipulate it. **`monty`** is an interpreter built specially for the said Monty Bytecodes files.
 
 ## More About the Monty language
