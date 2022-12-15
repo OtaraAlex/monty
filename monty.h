@@ -36,7 +36,7 @@ typedef struct bus_s
 	FILE *file;
 	char *content;
 	int lifi;
-} bus_t;
+}  bus_t;
 extern bus_t bus;
 /**
  * struct instruction_s - opcode and its function
